@@ -48,4 +48,3 @@ Recall: The proportion of actual positives that were identified correctly.
 
 F1-score: The harmonic mean of precision and recall.
 
-Confusion Matrix: A table describing the performance of a classification model.
